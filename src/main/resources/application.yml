@@ -1,0 +1,5 @@
+zabbix:
+  server-ip: 192.168.1.79
+  server-port: 10051
+  socket-timeout: 3000
+  connection-timeout: 3000
